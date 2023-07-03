@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pass-manager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pass_manager_jar</output-path>
+    <root id="archive" name="pass-manager.jar">
+      <element id="module-output" name="pass-manager" />
+    </root>
+  </artifact>
+</component>
